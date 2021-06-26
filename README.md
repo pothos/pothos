@@ -1,6 +1,6 @@
 ### About me
 
-I'm a software developer at, formerly under [Kinvolk](https://kinvolk.io/), now Microsoft (Azure Arc), working on [Flatcar Container Linux](https://www.flatcar-linux.org/).
+I'm a software developer, formerly under [Kinvolk](https://kinvolk.io/), now Microsoft (Azure Arc), working on [Flatcar Container Linux](https://www.flatcar-linux.org/).
 I also worked on [Lokomotive](https://github.com/kinvolk/lokomotive), [Inspektor Gadget](https://github.com/kinvolk/inspektor-gadget), and [traceloop](https://github.com/kinvolk/traceloop).
 
 As a fun interview task at Kinvolk I implemented the [idea](https://github.com/systemd/systemd/issues/10227) of a systemd option to define BPF programs as packet filters for all network sockets of a CGroup. This is now part of systemd since version 243 and lets you use a [custom network filter](https://www.freedesktop.org/software/systemd/man/systemd.resource-control.html#IPIngressFilterPath=BPF_FS_PROGRAM_PATH) for your systemd service.
